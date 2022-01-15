@@ -32,7 +32,7 @@ Here is the summary gathered by the **Python** script from the election audit re
 ### Python Script and Output:
 The above results were obtained by running the python script: [PyPoll_Challenge.py](https://github.com/eldarias/Election_Analysis/blob/main/PyPoll_Challenge.py)
 - Election Results output via Terminal:
-  - <image src="./Resources/TerminalOutput-of-Script-with-ElectionResults.pn">
+  - ![Election Results Terminal output](https://github.com/eldarias/Election_Analysis/blob/main/analysis/TerminalOutput-of-Script-with-ElectionResults.png?raw=true)
 - Document (txt file) containing the Election Results:
   - [election_analysis.txt](https://github.com/eldarias/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
